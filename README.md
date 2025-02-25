@@ -26,7 +26,7 @@ ChromaDB:-For efficient document retrieval
 
 Usage 📌
 
-Upload a document (PDF, TXT, or other supported formats).
+Upload a document (PDF, TXT).
 
 The system will process the document and generate insights.
 
